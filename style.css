@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#fg{
+    color:red;
+    font-weight: 600;
+    font-family: "Playwrite NZ", cursive;
+}
+#jumbo{
+    height:500px;
+    background: #fff;
+}
+#fh{
+    background: #fff;
+    line-height: 2rem;
+}
+#welcome{
+    font-family:"Playwrite NZ", cursive ;
+    color: red;
+    font-size: 25px;
+    font-weight: 600;
+}
+#dumbell{
+    font-size:80px;
+    color:rgba(255, 0, 0, 0.815);
+    width:50px;
+}
+
+#lead{
+    color:rgba(240, 37, 37, 0.877);
+    font-family: "Playwrite NZ", cursive ;
+    font-size: 1.2rem;
+}
+#plans{
+    color:red;
+    border: 0.5px solid rgba(0, 0, 0, 0.432);
+}
+.card-title{
+    font-weight: 600;
+}
+.card-body{
+    letter-spacing: 0.1rem;
+}
+#card{
+    height:16rem;
+}
+.d0{
+    width:2.5rem;
+   
+ text-align: center;
+}
+#badge{
+    width:100%;
+    height:3rem;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 1.2rem;
+}
